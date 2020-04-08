@@ -1,5 +1,8 @@
 # PowerShell-Scriptblock-Logging-Splunk
 
+Bellow is the regex - i can see gtihub removong sysntax though, like the * from squence number.
+
+
 |            Field           |                                         REGEX                                        |
 |:--------------------------:|:------------------------------------------------------------------------------------:|
 | ActivityID                 | ^(?:[^'\n]*'){9}(?P<ActivityID>[^']+)                                                |

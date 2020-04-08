@@ -1,5 +1,7 @@
 # PowerShell-Scriptblock-Logging-Splunk
 
+https://sites.google.com/view/powershell-scriptblock-splunk/home
+
 Bellow is the regex - i can see gtihub removong sysntax though, like the * from squence number.
 
 

@@ -1,3 +1,4 @@
+Field,REGEX
 ActivityID,^(?:[^'\n]*'){9}(?P<ActivityID>[^']+) 
 Channel-PowerShell,(?:Channel>)(?<Channel>.*)(?:<\/Channel) 
 Command_Name-PowerShell,(?:Command Name =)(?<Command_Name>.*)(?:Command Type) 
